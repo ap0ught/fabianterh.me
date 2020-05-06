@@ -33,16 +33,16 @@ const IndexPage = () => {
       <SEO title="Home" />
       <Section>
         <h2>Hello world!</h2>
-        <Name>I'm Fabian.</Name>
+        <Name>Hi i'm Mayfield.</Name>
         <Avatar />
         <div style={{ marginTop: `2rem` }}>
-          <LinkCard icon={faGithub} url="https://github.com/fterh">
+          <LinkCard icon={faGithub} url="https://github.com/ap0ught">
             Github
           </LinkCard>
-          <LinkCard icon={faLinkedin} url="https://linkedin.com/in/fabianterh/">
+          <LinkCard icon={faLinkedin} url="https://linkedin.com/in/ap0ught/">
             Linkedin
           </LinkCard>
-          <LinkCard icon={faMedium} url="https://medium.com/@fabianterh">
+          <LinkCard icon={faMedium} url="https://medium.com/@christophermayfield">
             Blog
           </LinkCard>
         </div>
